@@ -1,16 +1,6 @@
 # 🕹️ Python Game Making with Pygame Zero
 
-🚀 **A beginner-friendly website for learning Pygame Zero, experimenting with code, and copying game examples!**
-
-### 🔗 **Live Website:** [sufidoobee.github.io](https://sufidoobee.github.io/)
-
----
-
-### **📌 Features**
-- ✅ **Learn Pygame Zero** step by step  
-- ✅ **Copy Game Code** – Copy the code to your clipboard  
-- ✅ **Cool Animations & Tech-Styled Cursor**  
-- ✅ **Simple & Responsive UI**  
+🚀 **A beginner-friendly website for learning Python game devlopment with Pygame Zero, experimenting with code, and learning to make games and more!**
 
 ---
 
