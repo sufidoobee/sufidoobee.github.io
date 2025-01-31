@@ -1,4 +1,4 @@
-Welcome to **Learn Coding with sufidoobee**! This website is designed to help you learn game development using **Python**, **Pygame**, and **Pygame Zero**. Follow the steps below to get started with creating your own games.
+Welcome to **Learn Coding with Sufiyan**! This website is designed to help you learn game development using **Python**, **Pygame**, and **Pygame Zero**. Follow the steps below to get started with creating your own games.
 
 ---
 
