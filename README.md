@@ -14,13 +14,13 @@ Python is the programming language we will use. You can download and install Pyt
 
 ### Step 2: Install Pygame
 
-Pygame is a game development library that helps create graphics and handle game logic. Installing Pygame allows you to build interactive applications and games. Installe it using command prompt by typing - **pip install pygame**. Once installed, you can verify its setup by running a test program that comes with the library.
+Pygame is a game development library that helps create graphics and handle game logic. Installing Pygame allows you to build interactive applications and games. Install it using command prompt by typing - **pip install pygame**. Once installed, you can verify its setup by running a test program that comes with the library.
 
 ---
 
 ### Step 3: Install Pygame Zero
 
-Pygame Zero is a simplified game development framework built on top of Pygame, making it easier for beginners to create games quickly. Installe it using command prompt by typing - **pip install pgzero** After installing Pygame Zero, you are ready to start coding your own games.
+Pygame Zero is a simplified game development framework built on top of Pygame, making it easier for beginners to create games quickly. Install it using command prompt by typing - **pip install pgzero** After installing Pygame Zero, you are ready to start coding your own games.
 
 ---
 
@@ -32,13 +32,13 @@ To write and edit your game code, you need a text editor. Open **Python IDLE she
 
 ## How to Run Code Using Pygame Zero
 
-Once you have set up Python, Pygame, and Pygame Zero, you can begin running your game files. On the first line type **import pgzero**. On the last line type **pgzero.go()**. Remember to save your file and thne run it using **F5 Key**.
+Once you have set up Python, Pygame, and Pygame Zero, you can begin running your game files. On the first line type **import pgzrun**. On the last line type **pgzrun.go()**. Remember to save your file and thne run it using **F5 Key**.
 
 ---
 
 ## Game code examples
 
-You can take a testing game coe from here - https://bit.ly/4hhx02e .
+You can take a testing game code from here - https://bit.ly/4hhx02e .
 
 ---
 
@@ -51,8 +51,8 @@ Pygame Zero simplifies game development by handling many complex tasks automatic
 
 ## Conclusion
 
-Now you are all set to create and run games using **Python, Pygame, and Pygame Zero**! Experiment with different shapes, movements, and interactions to bring your game ideas to life. Start with simple projects and gradually add more features to enhance your games.
+Now you know the basics of Pygame zero. New videos coming soon...
 
-🚀 Happy Coding!
+## 🚀 Happy Coding!
 
 ---
