@@ -40,7 +40,7 @@ To write and edit your game code, you need a text editor. Different editors can 
 
 ## Understanding Pygame Zero
 
-Pygame Zero simplifies game development by handling many complex tasks automatically. With just a few lines of code, you can create visual elements, animations, and interactive features. It is an excellent tool for beginners who want to start coding games without worrying about complex configurations.
+Pygame Zero simplifies game development by handling many complex tasks automatically. With just a few lines of code, you can create visual elements, animations, and interactive features. It is an excellent tool for beginners who want to start coding games without worrying about complex configurations. You can understand it breifly by checking my video - 
 
 ---
 
@@ -51,6 +51,3 @@ Now you are all set to create and run games using **Python, Pygame, and Pygame Z
 🚀 Happy Coding!
 
 ---
-
-🔗 **Visit my GitHub Pages site for more tutorials:**  
-[sufidoobee.github.io](https://sufidoobee.github.io)
